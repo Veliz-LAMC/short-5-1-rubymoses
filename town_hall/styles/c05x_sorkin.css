@@ -32,5 +32,16 @@ p,blockquote,ul,li {
 }
 cite {
 	color: blue;
-	font-style-: mormal;
+	font-style-: normal;
+}
+p.cite-paragraph {
+	text-align:right;
+	margin-bottom: 0.75em;
+}
+footer, footer p{
+	font-size: 90%;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;	
 }
